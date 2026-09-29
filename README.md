@@ -7,7 +7,7 @@ Full-stack developer focused on Angular, TypeScript, APIs, and clean product exp
 </p>
 
 <div align="center">
-  <img src="https://github.com/dsthedragon.png" width="140" height="140" alt="dsthedragon" style="border-radius: 50%;" />
+  <img src="https://github.com/dsthdragon.png" width="140" height="140" alt="dsthedragon" style="border-radius: 50%;" />
 </div>
 
 ## Contribution Pulse
