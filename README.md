@@ -32,5 +32,5 @@ Full-stack developer focused on Angular, TypeScript, APIs, and clean product exp
 
 ## Contact
 
-- GitHub: https://github.com/dsthedragon
+- GitHub: https://github.com/dsthdragon
 - Open to building, learning, and shipping interesting projects.
