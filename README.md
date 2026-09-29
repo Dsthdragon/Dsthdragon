@@ -11,7 +11,10 @@ Full-stack developer focused on Angular, TypeScript, APIs, and clean product exp
 </div>
 
 ## Contribution Pulse
-![Contribution Pulse](./assets/contribution-pulse.svg)
+
+<p align="center">
+  ![Contribution Pulse](./assets/contribution-pulse.svg)
+</p>
 
 ## Stack
 
